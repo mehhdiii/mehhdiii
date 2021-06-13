@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Estimation Problems for Object Tracking  
 - 🌱 I’m currently learning Advanced ML and Computer Vision
-- 👯 I’m looking to collaborate on Design projects
-- 🤔 I will be possibly (99.99% probability) looking for help with MATLAB
+- 👯 I’m looking for FYP ideas
+- 🤔 I am looking for help with MATLAB/Simulink for simulating Drones
 - 💬 Ask me to solve problems (I love brainstorming ❤)
 - 📫 How to reach me: mk05198@st.habib.edu.pk
 - 😄 Pronouns: Mk
-- ⚡ Fun fact: I'm always bored. 
+- ⚡ Fun fact: I am interested in CS as much as EE (my major)
 
 
 
