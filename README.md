@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **mehhdiii/mehhdiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,6 +6,7 @@ Here are some ideas to get you started:
 -->
 ![my flyer](https://user-images.githubusercontent.com/60067141/121791807-6a963b80-cc07-11eb-80e2-705f2a1d80db.png)
 
+### Hi there 👋
 
 - 🔭 I’m currently working on Estimation Problems for Object Tracking  
 - 🌱 I’m currently learning Advanced ML and Computer Vision
