@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me to solve problems (I love brainstorming ❤)
 - 📫 How to reach me: mk05198@st.habib.edu.pk
 - 😄 Pronouns: Mk
-- ⚡ Fun fact: I am interested in CS as much as EE (my major)
+- ⚡ Fun fact: I write in my free time @ https://mklifejournal.blogspot.com/
 
 
 
