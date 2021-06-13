@@ -4,7 +4,8 @@
 
 Here are some ideas to get you started:
 -->
-![my flyer](https://user-images.githubusercontent.com/60067141/121791807-6a963b80-cc07-11eb-80e2-705f2a1d80db.png)
+![my flyer](https://user-images.githubusercontent.com/60067141/121791883-2b1c1f00-cc08-11eb-8b73-4d81ae1a8dcd.png)
+
 
 ### Hi there 👋
 
