@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Advanced ML and Computer Vision
 - 👯 I’m looking for FYP ideas
 - 🤔 I am looking for help with MATLAB/Simulink for simulating Drones
-- 💬 Ask me to solve problems (I love brainstorming ❤)
+- 💬 Ask me to solve problems
 - 📫 How to reach me: mk05198@st.habib.edu.pk
 - 😄 Pronouns: Mk
 - ⚡ Fun fact: I write in my free time @ https://mklifejournal.blogspot.com/
