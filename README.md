@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 🔭 I’m currently working on Estimation Problems for Object Tracking  
-- 🌱 I’m currently learning Classical ML
+- 🌱 I’m currently learning advanced classical ML algorithms 
 - 👯 I’m looking for FYP ideas
 - 🤔 I am looking for help with MATLAB/Simulink for simulating Drones
 - 💬 Ask me to solve problems
