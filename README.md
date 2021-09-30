@@ -9,13 +9,10 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Estimation Problems for Object Tracking  
-- 🌱 I’m currently learning advanced classical ML algorithms 
-- 👯 I’m looking for FYP ideas
-- 🤔 I am looking for help with MATLAB/Simulink for simulating Drones
-- 💬 Ask me to solve problems
+- 🔭 I’m currently working on SLAM on Quadcoptors
+- 🌱 I’m currently exploring Mobile Robotics
+- 👯 I’m looking for ideas
 - 📫 How to reach me: mk05198@st.habib.edu.pk
-- 😄 Pronouns: Mk
 - ⚡ Fun fact: I write in my free time @ https://mklifejournal.blogspot.com/
 
 
