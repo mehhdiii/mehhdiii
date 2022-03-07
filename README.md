@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 🔭 I’m currently working on SLAM on Quadcoptors
-- 🌱 I’m currently exploring Mobile Robotics
+- 🌱 I’m currently exploring Computer archecture and organization
 - 👯 I’m looking for ideas
 - 📫 How to reach me: mk05198@st.habib.edu.pk
 - ⚡ Fun fact: I write in my free time @ https://mklifejournal.blogspot.com/
