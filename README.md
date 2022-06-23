@@ -9,11 +9,11 @@ Here are some ideas to get you started:
  -->
 ### Hi there 👋
 
-- 🔭 I’m currently working on SLAM on Quadcoptors
-- 🌱 I’m currently exploring Computer archecture and organization
-- 👯 I’m looking for ideas
-- 📫 How to reach me: mk05198@st.habib.edu.pk
-- ⚡ Fun fact: I write in my free time @ https://mklifejournal.blogspot.com/
+- 🔭 I’m currently working with Data
+- 🌱 I’m currently exploring Data management and DBs
+- 👯 I’m (always) looking for ideas
+- 📫 How to reach me: mehdiraza1@hotmail.com
+- ⚡ (serious) Fun fact: I write in my free time @ https://mklifejournal.blogspot.com/
 
 
 
