@@ -9,7 +9,7 @@ Here are some ideas to get you started:
  -->
 ### Hi there 👋
 
-- 🔭 I’m currently working with Data
+- 🔭 I’m currently working with books
 - 🌱 I’m currently exploring Data management and DBs
 - 👯 I’m (always) looking for ideas
 - 📫 How to reach me: mehdiraza1@hotmail.com
