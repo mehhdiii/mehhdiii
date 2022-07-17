@@ -9,9 +9,9 @@ Here are some ideas to get you started:
  -->
 ### Hi there 👋
 
-- 🔭 I’m currently working with books
-- 🌱 I’m currently exploring Data management and DBs
-- 👯 I’m (always) looking for ideas
+- 🔭 I’m currently working alongside books/videos/tutorials
+- 🌱 I’m currently learning NodeJS
+- 👯 I’m (always) looking for projects
 - 📫 How to reach me: mehdiraza1@hotmail.com
 - ⚡ (serious) Fun fact: I write in my free time @ https://mklifejournal.blogspot.com/
 
