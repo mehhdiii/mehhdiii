@@ -10,11 +10,12 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 - 🔭 I’m currently working alongside books/videos/tutorials
-- 🌱 I’m currently learning NodeJS
-- 👯 I’m (always) looking for projects
+- 🌱 I’m currently learning React/C#
+- 👯 I’m looking for book recommendations
 - 📫 How to reach me: mehdiraza1@hotmail.com
 - 🏢 Work Account: https://github.com/mehhdiii
 - ⚡ (serious) Fun fact: I write in my free time @ https://mklifejournal.blogspot.com/
+- 📖 My bookshelf: https://www.goodreads.com/user/show/137288599-mehdi
 
 
 
