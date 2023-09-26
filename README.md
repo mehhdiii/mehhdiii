@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Docker
 - 👯 I’m looking for book recommendations
 - 📫 How to reach me: mehdiraza1@hotmail.com
-- 🏢 Work Account: https://github.com/mehdirazak
+- 🏢 Secondary Account: https://github.com/mehdirazak
 - ⚡ (serious) Fun fact: I write in my free time @ https://mklifejournal.blogspot.com/
 - 📖 My bookshelf: https://www.goodreads.com/user/show/137288599-mehdi
 
