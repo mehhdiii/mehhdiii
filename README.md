@@ -9,8 +9,8 @@ Here are some ideas to get you started:
  -->
 ### Hi there 👋
 
-- 🔭 I’m currently working on React/C#
-- 🌱 I’m currently learning Docker
+- 🔭 I’m currently working on nest, angular
+- 🌱 I’m currently learning systems
 - 👯 I’m looking for book recommendations
 - 📫 How to reach me: mehdiraza1@hotmail.com
 - 🏢 Secondary Account: https://github.com/mehdirazak
