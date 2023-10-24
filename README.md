@@ -9,7 +9,7 @@ Here are some ideas to get you started:
  -->
 ### Hi there 👋
 
-- 🔭 I’m currently working on nest, angular
+- 🔭 I’m currently working with full stack apps
 - 🌱 I’m currently learning systems
 - 👯 I’m looking for book recommendations
 - 📫 How to reach me: mehdiraza1@hotmail.com
