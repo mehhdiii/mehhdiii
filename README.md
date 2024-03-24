@@ -9,12 +9,11 @@ Here are some ideas to get you started:
  -->
 ### Hi there 👋
 
-- 🔭 I’m currently working with full stack apps
-- 🌱 I’m currently learning systems
+- 🔭 I’m currently working with angular & nestjs
+- 🌱 I’m currently learning clean code
 - 👯 I’m looking for book recommendations
 - 📫 How to reach me: mehdiraza1@hotmail.com
 - 🏢 Secondary Account: https://github.com/mehdirazak
-- ⚡ (serious) Fun fact: I write in my free time @ https://mklifejournal.blogspot.com/
 - 📖 My bookshelf: https://www.goodreads.com/user/show/137288599-mehdi
 
 
