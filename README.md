@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <!-- ![my flyer](https://user-images.githubusercontent.com/60067141/121791883-2b1c1f00-cc08-11eb-8b73-4d81ae1a8dcd.png)
 
  -->
-### Hi there 👋
+### Hi there fellow engineer 👋
 
 - 🔭 I’m currently working with angular & nestjs
 - 🌱 I’m currently learning clean code
