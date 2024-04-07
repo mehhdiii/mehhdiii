@@ -9,11 +9,12 @@ Here are some ideas to get you started:
  -->
 ### Hey there fellow engineer 👋
 
-- 🔭 I’m currently working with web tech
-- 🌱 Always earning improving on writing readable code
+- 🔭 I’m currently working with web technologies
+- 🌱 Always improving on writing readable/maintainable code
 - 👯 Always looking for book recommendations
 - 📫 Reach me at: mehdiraza1@hotmail.com
 - 📖 bookshelf: https://www.goodreads.com/user/show/137288599-mehdi
+- :coffee: looking for philosophy-101 discussions over a cup of tea/coffee
 
 
 
