@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 and also,
 - 🔭 currently working with web technologies
-- 🌱 always improving on writing readable/maintainable code
+- 🌱 trying to write more poetic code
 - 👯 always looking for book recommendations
 - 📫 reach me at: mehdiraza1@hotmail.com
 - 📖 know me better here: https://www.goodreads.com/user/show/137288599-mehdi
