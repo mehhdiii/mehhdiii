@@ -16,7 +16,7 @@ and also,
 - 🌱 always improving on writing readable/maintainable code
 - 👯 always looking for book recommendations
 - 📫 reach me at: mehdiraza1@hotmail.com
-- 📖 bookshelf: https://www.goodreads.com/user/show/137288599-mehdi
+- 📖 know me better here: https://www.goodreads.com/user/show/137288599-mehdi
 
 
 
