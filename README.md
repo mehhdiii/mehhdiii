@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - :coffee: always up for philosophy-101 discussions over a cup of tea/coffee
 
 and also,
-- 🔭 currently working with web technologies
+- 🔭 I work with web technologies
 - 🌱 trying to write more poetic code
 - 👯 always looking for book recommendations
 - 📫 reach me at: mehdiraza1@hotmail.com
