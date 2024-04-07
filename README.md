@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning clean code
 - 👯 I’m looking for book recommendations
 - 📫 How to reach me: mehdiraza1@hotmail.com
-- 🏢 Secondary Account: https://github.com/mehdirazak
 - 📖 My bookshelf: https://www.goodreads.com/user/show/137288599-mehdi
 
 
