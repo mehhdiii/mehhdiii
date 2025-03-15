@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - :coffee: always up for philosophy-101 discussions over a cup of tea/coffee
 
 and also,
-- 🔭 I work with web technologies
-- 🌱 trying to write more poetic code
-- 👯 always looking for book recommendations
-- 📫 reach me at: mehdiraza1@hotmail.com
-- 📖 know me better here: https://www.goodreads.com/user/show/137288599-mehdi
+- 🔭 I work with: Whatever is thrown my way
+- 🌱 Goal: To write more poetic code faster
+- 👯 Looking for: book recommendations
+- 📫 reachable at: mehdiraza1@hotmail.com
+- 📖 Background research on me at: https://www.goodreads.com/user/show/137288599-mehdi
 
 
 
