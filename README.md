@@ -17,6 +17,9 @@ and also,
 - 👯 Looking for: book recommendations
 - 📫 reachable at: mehdiraza1@hotmail.com
 - 📖 Background research on me at: https://www.goodreads.com/user/show/137288599-mehdi
+- 📖 Publications:
+  - https://ieeexplore.ieee.org/document/10011693
+  - https://ieeexplore.ieee.org/document/9953174
 
 
 
